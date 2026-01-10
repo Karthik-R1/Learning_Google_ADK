@@ -1,0 +1,15 @@
+# Google Generative AI & Agentic Design Kit
+google-genai
+google-adk
+
+# Data Visualization & Analysis
+matplotlib
+pandas
+numpy
+
+# Environment & Async 
+python-dotenv
+asyncio
+
+# Optional: For Vision/Image handling
+Pillow
