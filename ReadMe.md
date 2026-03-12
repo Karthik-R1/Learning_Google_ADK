@@ -1,3 +1,6 @@
+LinkedIn Tag to view all 21 days of content: https://www.linkedin.com/search/results/all/?keywords=%2321daysofagenticstrategy&origin=HASH_TAG_FROM_FEED
+
+
 # 🏛️ The 2026 Agentic Strategy Suite
 ### Building a Digital Chief of Staff with Google ADK
 
@@ -33,5 +36,6 @@ The "Black Belt" level of Agentic Design.
 2. Setup Environment: Create a .env file with your GOOGLE_API_KEY.
 
 3. Install Dependencies: pip install -r requirements.txt
+
 
 4. Run the Finale: python lessons/21_final_executive_dashboard.py
